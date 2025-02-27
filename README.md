@@ -1,4 +1,4 @@
-# Welcome to the Copilot+Codespaces Playground Demo 
+##Welcome to the Copilot+Codespaces Playground Demo 
 
 ## Our Mission
 Our goal is to provide a self-serve, one-click Copilot experience that will be hosted on Codespaces.
